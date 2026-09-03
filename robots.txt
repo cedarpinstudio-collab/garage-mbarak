@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://garagembarak.com/sitemap.xml
